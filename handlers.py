@@ -1,7 +1,7 @@
 from aiogram import Router
 from aiogram.filters import CommandStart
 from aiogram.types import Message, FSInputFile
-import app.keyboards as kb
+import keyboards as kb
 
 router = Router()
 
